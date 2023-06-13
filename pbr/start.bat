@@ -1,0 +1,1 @@
+python main.py ctrl_pass.frag pbr_pass.frag
